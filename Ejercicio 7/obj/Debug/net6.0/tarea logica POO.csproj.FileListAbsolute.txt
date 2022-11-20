@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\bin\Debug\net6.0\tarea logica POO.exe
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\bin\Debug\net6.0\tarea logica POO.deps.json
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\bin\Debug\net6.0\tarea logica POO.runtimeconfig.json
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\bin\Debug\net6.0\tarea logica POO.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\bin\Debug\net6.0\tarea logica POO.pdb
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.AssemblyInfo.cs
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\refint\tarea logica POO.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.pdb
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\tarea logica POO.genruntimeconfig.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\tarea logica POO\obj\Debug\net6.0\ref\tarea logica POO.dll

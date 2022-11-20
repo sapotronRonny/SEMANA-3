@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\bin\Debug\net6.0\ejercicio 10.exe
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\bin\Debug\net6.0\ejercicio 10.deps.json
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\bin\Debug\net6.0\ejercicio 10.runtimeconfig.json
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\bin\Debug\net6.0\ejercicio 10.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\bin\Debug\net6.0\ejercicio 10.pdb
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.AssemblyInfo.cs
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\refint\ejercicio 10.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.pdb
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ejercicio 10.genruntimeconfig.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 10\obj\Debug\net6.0\ref\ejercicio 10.dll

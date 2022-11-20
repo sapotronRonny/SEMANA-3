@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\bin\Debug\net6.0\ejercicio 8.exe
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\bin\Debug\net6.0\ejercicio 8.deps.json
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\bin\Debug\net6.0\ejercicio 8.runtimeconfig.json
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\bin\Debug\net6.0\ejercicio 8.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\bin\Debug\net6.0\ejercicio 8.pdb
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.AssemblyInfo.cs
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\refint\ejercicio 8.dll
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.pdb
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ejercicio 8.genruntimeconfig.cache
+C:\Users\acer\Desktop\TI\archivos VIsual studio\ejercicio 8\obj\Debug\net6.0\ref\ejercicio 8.dll

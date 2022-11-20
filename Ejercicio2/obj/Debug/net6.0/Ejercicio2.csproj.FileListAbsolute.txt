@@ -1,0 +1,15 @@
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\MSIPULSE GL66\Documents\Uni\3er Semestre\POO\C#\Ejercicios de Logica\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
